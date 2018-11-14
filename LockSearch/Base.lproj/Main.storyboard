@@ -54,16 +54,16 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="SAU-yh-9zI" customClass="WidgetView" customModule="Widgets" customModuleProvider="target">
-                                                    <rect key="frame" x="0.0" y="4" width="304" height="152"/>
+                                                    <rect key="frame" x="0.0" y="4" width="359" height="152"/>
                                                     <subviews>
                                                         <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8bH-PK-xZf">
-                                                            <rect key="frame" x="0.0" y="0.0" width="304" height="30"/>
+                                                            <rect key="frame" x="0.0" y="0.0" width="359" height="30"/>
                                                             <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="jd3-PA-ORB">
-                                                                <rect key="frame" x="0.0" y="0.0" width="304" height="30"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="359" height="30"/>
                                                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                                 <subviews>
                                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XhE-P0-l8w">
-                                                                        <rect key="frame" x="216" y="0.0" width="80" height="30"/>
+                                                                        <rect key="frame" x="271" y="0.0" width="80" height="30"/>
                                                                         <constraints>
                                                                             <constraint firstAttribute="height" constant="30" id="5UN-eY-9OU"/>
                                                                             <constraint firstAttribute="width" constant="80" id="kbC-dr-JOP"/>
@@ -77,7 +77,7 @@
                                                                         </connections>
                                                                     </button>
                                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="IRIS APP SUGGESTIONS" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VsO-R7-cs8">
-                                                                        <rect key="frame" x="38" y="4.5" width="166" height="21"/>
+                                                                        <rect key="frame" x="38" y="4.5" width="221" height="21"/>
                                                                         <constraints>
                                                                             <constraint firstAttribute="height" constant="21" id="Ixz-fo-aSt"/>
                                                                         </constraints>
@@ -115,7 +115,7 @@
                                                             <blurEffect style="regular"/>
                                                         </visualEffectView>
                                                         <collectionView clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" delaysContentTouches="NO" canCancelContentTouches="NO" bouncesZoom="NO" dataMode="prototypes" prefetchingEnabled="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gPv-9H-FDC">
-                                                            <rect key="frame" x="0.0" y="30" width="304" height="122"/>
+                                                            <rect key="frame" x="0.0" y="30" width="359" height="122"/>
                                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                                             <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="BmX-0H-tqJ">
                                                                 <size key="itemSize" width="85" height="100"/>
@@ -347,7 +347,7 @@
                                 </connections>
                             </tableView>
                         </subviews>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="5E3-Rd-5GW" firstAttribute="height" secondItem="ow3-yd-imm" secondAttribute="height" id="3mg-OG-bWc"/>
                             <constraint firstItem="ow3-yd-imm" firstAttribute="top" secondItem="Jpv-13-gDQ" secondAttribute="bottom" id="AY4-jl-VyI"/>
