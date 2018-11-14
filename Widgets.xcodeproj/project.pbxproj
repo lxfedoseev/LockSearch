@@ -155,6 +155,7 @@
 				TargetAttributes = {
 					9C9E23F11DAD251B004749FD = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 9D23U6XAWC;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -327,10 +328,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9D23U6XAWC;
 				INFOPLIST_FILE = LockSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Widgets;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.almaunion.Widgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -340,10 +341,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9D23U6XAWC;
 				INFOPLIST_FILE = LockSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.Widgets;
+				PRODUCT_BUNDLE_IDENTIFIER = ru.almaunion.Widgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
